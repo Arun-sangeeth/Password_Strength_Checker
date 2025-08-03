@@ -32,5 +32,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/arun-sangeeth/password-strength-checker.git
+   git clone https://github.com/Arun-sangeeth/password-strength-checker.git
    cd password-strength-checker
