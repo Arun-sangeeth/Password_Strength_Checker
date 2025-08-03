@@ -4,10 +4,6 @@
 
 
 
-
-
-
-
 ## 🚀 Features
 
 - ✅ **Real-time Password Analysis**
