@@ -34,3 +34,12 @@
    ```bash
    git clone https://github.com/Arun-sangeeth/Brainwave_Matrix_Intern..git
    cd password-strength-checker
+
+Serve it Locally
+Use any local server (e.g. VS Code Live Server, Python HTTP server)
+
+bash
+python app.py
+
+open in browser:
+http://127.0.0.1:8000/index.html
