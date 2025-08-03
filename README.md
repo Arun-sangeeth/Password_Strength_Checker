@@ -32,5 +32,5 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Arun-sangeeth/password-strength-checker.git
+   git clone https://github.com/Arun-sangeeth/Brainwave_Matrix_Intern..git
    cd password-strength-checker
